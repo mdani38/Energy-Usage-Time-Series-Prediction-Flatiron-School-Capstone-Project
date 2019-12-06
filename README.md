@@ -10,6 +10,13 @@ This project is the capstone project for the Data Science Bootcamp at the Flatir
 
 https://www.canva.com/design/DADs4iXg2PA/2skAA-7X3OdjeMpL2KuWuA/view?utm_content=DADs4iXg2PA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
+https://public.tableau.com/profile/matthew.danielson#!/vizhome/ASHRAEWeather/Temperatures?publish=yes
+
+https://public.tableau.com/profile/matthew.danielson#!/vizhome/ASHRAE_Preds/3Preds
+
+https://public.tableau.com/profile/matthew.danielson#!/vizhome/ASHRAE_Update/Meter_Predictions
+
+https://public.tableau.com/profile/matthew.danielson#!/vizhome/ASHRAE_4/PrimaryUse_1
 
 
 ## Data 
