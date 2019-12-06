@@ -43,12 +43,11 @@ Weather data is provided for both the training and testing time periods. The wea
 
 ## Models
 
-Median Predictions: RMSLE 1.61
-GRU: RMSLE 2.66
-LGBM with Full FE: RMSLE 1.14
-LGBM with Light FE: RMSLE 1.12
-LGBM Half and Half: RMSLE 1.09
+Below models are associated with similarly named notebooks. The notebooks for splitting csv is required for the GRU notebooks.
 
-{"A?":"B","a":5,"b":1575661924700,"c":"DADs4iXg2PA","d":"B","A":[{"A?":"I","A":109.99632836742308,"B":755.7185501066097,"D":1164.2814498933901,"C":864,"a":{"B":{"A":{"A":"MADtFqmyy9Q","B":1},"B":{"D":1164.2814498933901,"C":864}}}}],"B":1920,"C":1080}
-
+### Median Predictions: RMSLE 1.61
+### GRU: RMSLE 2.66
+### LGBM with Full FE: RMSLE 1.14
+### LGBM with Light FE: RMSLE 1.12
+### LGBM Half and Half: RMSLE 1.09
 
